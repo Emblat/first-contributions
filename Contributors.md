@@ -3,6 +3,7 @@
 - Apiwat Chuaphan (https://github.com/apiwatc)
 -Mike
 - Dax Patel (https://github.com/letapxad)
+- Embla Tinglöv
 - Kiran Saini (https://github.com/sainik73)
 - Mark Foster (https://github.com/markfoster314)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
